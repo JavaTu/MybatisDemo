@@ -4,4 +4,4 @@
 
 资源
 ---------------
-* [Mybatis](https://github.com/mybatis/mybatis-3)
+* [Mybatis源码](https://github.com/mybatis/mybatis-3)
